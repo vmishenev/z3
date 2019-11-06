@@ -1,0 +1,12 @@
+z3_add_component(aeval
+  SOURCES
+    aeval_cmds.cpp
+  COMPONENT_DEPENDENCIES
+    bmc
+    clp
+    ddnf
+    muz
+    rel
+    spacer
+    tab
+)

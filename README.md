@@ -1,3 +1,5 @@
+#Use cmake to build aeval
+
 # Z3
 
 Z3 is a theorem prover from Microsoft Research. 
